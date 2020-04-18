@@ -9,6 +9,7 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 
 ![](images/2019-12/pokemon_sword_revenge.gif)
 
+![](images/2019-12/fire_line.gif)
 ![](images/2019-12/fire.gif)
 
 ![](images/2019-12/bubble.gif)
