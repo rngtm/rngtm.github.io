@@ -2,7 +2,7 @@
 iPadのClip Studio Paintで描いた手描きエフェクトを載せていきます
 
 # 2019-12
-<img width = 250px, src = "images/2019-12/bubble.gif"  alt="あわ" title="サンプル">
+<img width = 250px, src = "Images/2019-12/bubble.gif"  alt="あわ" title="サンプル">
 
 <!-- <img width = 250px, src = "images/2019-12/bubble.gif" >
 <img width = 250px, src = "images/2019-12/liquid.gif" >
