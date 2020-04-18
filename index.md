@@ -1,7 +1,3 @@
----
----
-@import "";
-
 # 手描きエフェクト
 iPadのClip Studio Paintで描いた手描きエフェクトを載せていきます
 
