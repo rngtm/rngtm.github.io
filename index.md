@@ -1,5 +1,6 @@
 # 手描きエフェクト
-iPadのClip Studio Paintで描いた手描きエフェクトなどを載せていきます
+iPadのClip Studio Paintで描いた手描きエフェクトなどを載せていきます<br>
+<br>
 
 # 2019
 ![](images/2019-12/smoke.gif)]
@@ -31,7 +32,7 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 アニメ「終わりのセラフ」 OP 爆発エフェクトの模写<br>
 ![](images/2020-01/owari_no_serahu_explosion.gif)
 
-アニメ「リトルウィッチアカデミア」のエンディングのエフェクトの模写
+アニメ「リトルウィッチアカデミア」のエンディングのエフェクトの模写<br>
 ![](images/2020-01/lwa_ending.gif)
 
 # 2020-02
@@ -53,7 +54,7 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 雷エフェクトの落書き<br>
 ![](images/2020-02/thunder.gif)
 
-アニメ「火の丸相撲」 OP冒頭の炎エフェクトの模写
+アニメ「火の丸相撲」 OP冒頭の炎エフェクトの模写<br>
 ![](images/2020-02/hinomaru_zumou_op_fire.gif)
 
 # 2020-03
@@ -78,10 +79,10 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 # 2020-04
 ![](images/2020-04/explosion.gif)
 
-電気エフェクトの落書き
+電気エフェクトの落書き<br>
 ![](images/2020-04/thunder.gif)
 
-ペルソナ5 の炎エフェクトの模写
+ペルソナ5 の炎エフェクトの模写<br>
 ![](images/2020-04/persona5_fire.gif)
 
 煙エフェクトを90分で模写したもの<br>
