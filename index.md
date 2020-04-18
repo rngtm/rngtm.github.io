@@ -1,3 +1,1 @@
-# rngtm.github.io
-website
-test
+テスト
