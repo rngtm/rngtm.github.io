@@ -3,24 +3,32 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 <br>
 
 # 2019
-![](images/2019-12/smoke.gif)]
+模写<br>
+![](images/2019-12/smoke.gif)
 
 アニメ「炎炎ノ消防隊」煙エフェクトの模写<br>
 ![](images/2019-12/enen_no_shouboutai_smoke.gif)
 
+模写<br>
 ![](images/2019-12/pokemon_sword_revenge.gif)
 
+模写<br>
 ![](images/2019-12/fire_line.gif)
 ![](images/2019-12/fire.gif)
 
+模写<br>
 ![](images/2019-12/bubble.gif)
 
+模写<br>
 ![](images/2019-12/liquid.gif)
 
+模写<br>
 ![](images/2019-12/thunder_ball.gif)
 
+模写<br>
 ![](images/2019-12/pigeon.gif)
 
+模写<br>
 ![](images/2019-12/thunder.gif)
 
 # 2020-01
@@ -61,16 +69,22 @@ iPadのClip Studio Paintで描いた手描きエフェクトなどを載せて�
 映画「ドラゴンボール超ブロリー」 エフェクトの模写<br>
 ![](images/2020-03/dragonball_choubroly_effect.gif)
 
+ビームっぽいエフェクトの落書き<br>
 ![](images/2020-03/rakugaki_beam.gif)
 
+電気エフェクトの落書き<br>
 ![](images/2020-03/thunder.gif)
 
+模写<br>
 ![](images/2020-03/fire.gif)
 
+スズメの動画スケッチ<br>
 ![](images/2020-03/sparrow.gif)
 
+模写<br>
 ![](images/2020-03/lwa_magic.gif)
 
+模写<br>
 ![](images/2020-03/killlakill_explosion.gif)
 
 コップに水を注ぐ動画の模写<br>
