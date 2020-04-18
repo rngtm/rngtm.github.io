@@ -2,7 +2,7 @@
 iPadのClip Studio Paintで描いた手描きエフェクトを載せていきます
 
 # 2019-12
-![test](images/2019-12/bubble.gif)
+![test](images/2019-12/bubble.gif  | width=100)
 ![test](images/2019-12/liquid.gif)
 ![test](images/2019-12/pigeon.gif)
 ![test](images/2019-12/thunder_ball.gif)
